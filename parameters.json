@@ -1,0 +1,24 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "name": {
+            "value": "shubhwebappdemo01"
+        },
+        "hostingPlanName": {
+            "value": "hostingplantestname"
+        },
+        "hostingEnvironment": {
+            "value": ""
+        },
+        "location": {
+            "value": "East US"
+        },
+        "serverFarmResourceGroup": {
+            "value": "Powershell-Test-02"
+        },
+        "subscriptionId": {
+            "value": "enter your subscription id here ......."
+        }
+    }
+}

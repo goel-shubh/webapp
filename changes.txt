@@ -1,0 +1,9 @@
+In the main deploy file
+ 1.  enter your subscriptionId
+ 2. resourceGroupName
+ 3. resourceGroupLocation
+ 4. deploymentName
+ 5. enter your azure id and password
+in paramater. json
+ 1 . enter your subscription id
+At the time of running script  (provide name for template as same as your resource name)
